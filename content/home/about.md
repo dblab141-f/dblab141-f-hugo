@@ -21,7 +21,7 @@ weight = 1
 
 # About
 
-Our Laboratory is Here! [*]
+Our Laboratory is Here!  [*]
 
 ```
 +-----------------+
